@@ -16,6 +16,7 @@ We are glad you are here and excited to share our passion with the world!
 Few reminders for future developers (us):
 - `featured` tags are used to identify the top 5 posts to be featured on the right sidebar
 - `sticky` tags are used for the main featured post on the landing page
+- when merging a PR, be sure to check that the comparison branch is this repo and not the upstream fork! 
 
 ### Copyright
 

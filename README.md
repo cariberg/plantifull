@@ -1,13 +1,13 @@
-# Welcome to Plantifull.co
+# Welcome to Plantifull.co!
 
 [plantifull.co](https://plantifull.co) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.buymeacoffee.com/cariandchad) &nbsp; | &nbsp; 
+[Buy us a tea](https://www.buymeacoffee.com/cariandchad) 
 
 ### Overview
 
-Welcome to our website! We wanted to create a website with plant-based foods that keep 
-you full. We also wanted the website to be free of ads so we built it ourselves with the 
-help of amazing open source software! 
+Welcome to our website repo! We wanted to create a website with plant-based recipes that keep 
+you full (aka have well-rounded macronutrient profiles). We also wanted the website to be 
+free of ads so we built it ourselves with the help of amazing open source software! 
 
 We are glad you are here and excited to share our passion with the world! 
 

@@ -14,7 +14,7 @@ Chocolate chip cookies have always been my favorite dessert, and one of my favor
 <h3> Ingredients </h3>
 
 - 3/8 cup of almond flour
-- 3/8 cup of gluten-free or all purpose flour
+- 3/8 cup of gluten-free or all-purpose flour
 - 1/2 cup rolled oats
 - 1/2 cup walnuts, chopped
 - 3/4 cup vegan chocolate chips (See Note)

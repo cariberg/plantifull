@@ -5,6 +5,8 @@ author: cari
 categories: [breakfast]
 permalink: /chickpea-quiche/
 image: assets/images/Chickpea-Quiche.jpg
+tags:
+   - gluten-free
 ---
 
 This is a great approximation of a traditional egg-based quiche, perfect for when you're hosting brunch. The recipe is based on one from [Cafe Gratitude's cookbook](https://www.penguinrandomhouse.com/books/598239/love-is-served-by-cafe-gratitude-with-seizan-dreux-ellis/), with a few modifications including the addition of veggie breakfast sausages which I feel make the dish much more exciting. The quiche is really filling and easily modified with whatever vegetables you want to add. We serve this with fresh herbs on top or sometimes a basil pesto, which complements nicely.

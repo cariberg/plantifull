@@ -1,10 +1,9 @@
 ---
-title: 'Instant Pot New Orleans Style Red Beans &#038; Rice'
-date: '2021-06-14T22:23:35+00:00'
+title: "Instant Pot New Orleans Style Red Beans & Rice"
 author: Cari
 layout: post
-permalink: /instant-pot-new-orleans-red-beans-rice/
-image: assets/images/Red Beans n Rice.jpg
+permalink: /instant-pot-red-beans-rice/
+image: assets/images/red-beans-and-rice.jpg
 categories: [dinner]
 tags:
     - instant-pot

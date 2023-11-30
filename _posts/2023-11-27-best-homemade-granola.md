@@ -15,7 +15,7 @@ As a kid, I loved eating cereal for breakfast. I no longer have the sweet tooth 
 
 <h3> Ingredients </h3>
 
-- 4 cups rolled or quick oats (See Note)
+- 4 cups rolled oats
 - 1 cup pecans
 - 1/2 cup pepitas or sunflower seeds
 - 1/2 tsp. salt

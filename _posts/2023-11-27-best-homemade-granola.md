@@ -4,7 +4,7 @@ title: "Homemade Pecan and Cranberry Granola"
 author: cari
 categories: [breakfast]
 permalink: /granola/
-image: assets/images/Granola.jpg
+image: assets/images/granola.jpg
 tags:
     - grains
     - gluten-free

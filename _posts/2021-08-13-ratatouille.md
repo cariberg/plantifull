@@ -38,3 +38,7 @@ I’ve kept the simple preparation, adding chickpeas to make this more of a main
 3. Add the tomatoes, pepper, and chickpeas and stir. Add a few generous grinds of black pepper and salt (start with 1 tsp).
 4. Once at a simmer, lower the heat to medium-low and partially cover. Cook for another 20-40 minutes, stirring occasionally. The longer it cooks the more stew-like it will become, while the veggies will still have a bit of crunch at the shorter cook time.
 5. Taste and season with more salt and pepper. Add a drizzle of olive oil and some thinly sliced basil on top, and serve alongside fresh sourdough bread.
+
+<h3> Nutrition Facts </h3>
+
+<img src="assets/images/nutrition-facts/ratatouille.jpg" alt="Nutrition Facts">

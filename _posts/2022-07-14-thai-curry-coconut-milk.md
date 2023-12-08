@@ -41,3 +41,8 @@ Admittedly it’s been a long time (months, somehow) since I last posted. I’ll
 4. While everything is cooking, prepare the curry sauce. Whisk all remaining ingredients in a bowl, breaking up any clumps of coconut cream or curry paste. Taste for seasoning and add more of any ingredient to taste.
 5. Add the curry sauce to the veggies once they are cooked and simmer for a few minutes until hot. Add the tofu at any time once it’s fully cooked, or leave it on the side if you prefer.
 6. Serve the curry over rice.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417425&measure=83147409&labelType=AMERICAN_2016" frameborder="0"></iframe>
+

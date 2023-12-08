@@ -41,3 +41,7 @@ This is one of our go-to winter weeknight soups – it’s hearty and warming fr
 2. Stir the mixture and add 1 tsp. of salt and a few grinds of black pepper.
 3. Place the lid on the Instant Pot and set to pressure cook for 6 minutes. Let slow release for another 10 minutes before releasing all pressure.
 4. Stir in the lime juice and spinach leaves until the spinach is wilted. Season with additional salt and pepper before enjoying alongside toasted bread.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417548&measure=83147802&labelType=AMERICAN_2016" frameborder="0"></iframe>

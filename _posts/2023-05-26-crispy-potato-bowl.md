@@ -43,3 +43,7 @@ This recipe is one of those that takes simple ingredients and turns them into so
 2. While the veggies are roasting, make the jalapeno-ginger vinegar. Heat the vinegars, ginger, sugar, and salt in a small saucepan until boiling. Then remove from heat, add the jalapenos, and let cool completely before straining into a jar.
 3. In a large saute pan over medium heat, add about 2 tbsp. of olive oil and the mustard seeds, red pepper flakes, sugar, and 1/2 tsp. salt. Stir for about 2 minutes and then add the cabbage. Saute for another 3 minutes or so until the cabbage is wilted, then add 1/4 cup of water and cover the pan, cooking for another 4 minutes until the water is mostly absorbed. Season with salt and pepper to taste.
 4. Divide the rice and lentils into two bowls and top with helpings of roasted potatoes, carrots, and the sauteed cabbage. Dress the bowl with a tablespoon or two of the jalapeno-ginger vinegar and garnish with parsley leaves.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30470213&measure=83343191&labelType=AMERICAN_2016" frameborder="0"></iframe>

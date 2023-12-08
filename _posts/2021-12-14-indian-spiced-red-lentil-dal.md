@@ -38,3 +38,7 @@ This recipe has come together over so many iterations but I’m finally ready to
 2. Add the garlic, ginger, and all the spices and stir, cooking for a minute or two until the spices are fragrant.
 3. Add the crushed tomatoes, coconut milk, lentils, and 3 1/4 cups of water and stir. Bring to a boil, then reduce and simmer for about 15 minutes or until the lentils are cooked.
 4. Serve over rice or your choice of grain.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417651&measure=83148085&labelType=AMERICAN_2016" frameborder="0"></iframe>

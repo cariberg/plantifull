@@ -47,3 +47,7 @@ Red beans and rice is the simplest of these vegan takes on Creole cooking, and t
 5. To make the rice in the IP, again set it to Saute mode and add a tbsp. of avocado oil. Add the onion, bay leaf, and salt and stir, cooking for 4-5 minutes until the onion begins to brown. Add the rice and stir to coat, then add the broth or water.
 6. Put the lid on the IP and set it to to Pressure Cook mode for 25 minutes (if using brown rice. Adjust as needed for other types). Once the time is up, let slow release for about 10 minutes before fully releasing, removing the lid, and fluffing the rice.
 7. Serve the beans and rice in bowls and garnish with chives and more hot sauce.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30397010&measure=83076294&labelType=AMERICAN_2016" frameborder="0"></iframe>

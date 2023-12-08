@@ -36,3 +36,7 @@ This super simple recipe, adapted from [Minimalist Baker](https://minimalistbake
 2. Meanwhile, make the sauce. Heat a tbsp. or so of olive oil in a dutch oven or large pot over medium heat. Once hot, add the onion and saute for 4-5 minutes until soft, stirring occasionally. Add the mushrooms, tempeh, garlic, chili flakes, and tomato paste and cook for another 4-5 minutes until the tempeh is browning, stirring frequently and adding a bit of water if needed.
 3. Add the soy sauce or tamari and scrape up any brown bits from the bottom of the pot before adding the crushed tomatoes, dried oregano, and sweetener. Thin with water if needed and simmer for 10 minutes, stirring occasionally.
 4. Serve the pasta with a generous helping of sauce on top and garnish with additional dried or fresh herbs, if you like.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30396645&measure=83075013&labelType=AMERICAN_2016" frameborder="0"></iframe>

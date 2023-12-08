@@ -38,3 +38,7 @@ This black bean soup is a simple weeknight option that is flavorful, filling, an
 3. Bring the soup to a boil and then reduce to a simmer. Let cook for about 20 minutes, stirring occasionally, until thickened.
 4. Using an immersion blender, roughly puree the soup until the consistency is creamy but not entirely smooth. (You can also do this step in an upright blender by carefully transferring the soup and blending it.)
 5. Stir in the last 1 tsp. of apple cider vinegar before serving.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417354&measure=83147114&labelType=AMERICAN_2016" frameborder="0"></iframe>

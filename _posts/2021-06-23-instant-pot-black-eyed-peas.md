@@ -48,3 +48,7 @@ This recipe, based on Bryant Terry’s original from [Vegetable Kingdom](https:/
 6. To make the greens, heat a few tbsp. of olive oil in a large pot over medium heat. Once shimmering, add the shallots and saute until soft, about 3 minutes. Add the garlic and 1/4 tsp. of salt and cook for another 2 minutes.
 7. Add in the greens and vegetable stock and decrease the heat to low. Simmer, partially covered, for about 25 minutes or until the greens are very tender. Stir in the vinegar and season with salt and pepper to taste.
 8. Serve black-eyed peas, squash, and mustard greens together in a bowl, making sure to get some broth from the beans and greens.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30582293&measure=83748814&labelType=AMERICAN_2016" frameborder="0"></iframe>

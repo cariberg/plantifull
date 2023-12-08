@@ -45,4 +45,4 @@ This is one of the simplest recipes we make, involving very few steps (as you’
 
 <h3> Nutrition Facts </h3>
 
-<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30582387&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30582387&measure=83749107&labelType=AMERICAN_2016" frameborder="0"></iframe>

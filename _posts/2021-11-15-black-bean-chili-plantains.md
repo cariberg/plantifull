@@ -37,3 +37,7 @@ This chili is from Joe Yonan’s [Cool Beans](https://www.joeyonan.com/my-books/
 2. In a heavy pot or Dutch oven, heat a few tbsp of olive oil over medium-high heat until it shimmers. Add the onions and saute for about 8 minutes or until lightly browning. Add the garlic, chipotles, cumin, paprika, and salt and cook for another minute. Stir the plantains into the pot and let cook for a few minutes.
 3. Add the tomatoes, beans, and 1 cup of water and bring to a boil. Lower the heat and simmer for 15-20 minutes, until the plantains are very soft. Stir in the lime juice and season with more salt or lime as desired.
 4. Serve atop rice and with cubed avocado on top.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417783&measure=83148644&labelType=AMERICAN_2016" frameborder="0"></iframe>

@@ -41,3 +41,7 @@ This is one of the simplest and best soups I’ve made in a long time – it’s
 4. Combine the miso paste in a bowl with 1/2 cup of water and whisk until smooth.
 5. When the carrots are done, turn the heat off and add the miso-water mixture, then puree the soup using an immersion blender (you can also do this in batches in a blender – be very careful when transferring the hot soup back and forth!) Add more water at this stage if you’d like a thinner soup.
 6. Serve the soup topped with 1/2 cup of chickpeas, a handful of sliced scallions, and a drizzle of toasted sesame oil.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417709&measure=83148337&labelType=AMERICAN_2016" frameborder="0"></iframe>

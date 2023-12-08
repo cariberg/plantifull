@@ -41,3 +41,7 @@ This is one of the easiest meals I've made in a while and has a ton of flavor de
 
 **To serve**
 4. Place a few generous scoops of black beans in a bowl and top with sweet potatoes and spinach. Top with a dollop of cashew queso, a few tablespoons of pumpkin seeds, and serve alongside warm corn tortillas.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417288&measure=83146900&labelType=AMERICAN_2016" frameborder="0"></iframe>

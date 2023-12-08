@@ -44,3 +44,7 @@ The original recipe is, like many of my favorites on this site, from Laura Wrigh
 6. While the veggies cook, drain the cashews and combine them in a blender with 3/4 cup of water. Blend on high until smooth and set aside.
 7. To the pot of vegetables, add the red wine and stir, cooking for 5 minutes. Add the crushed tomatoes and cook for another 5 minutes, stirring often. Finally, add the cashew milk and cook for 5 more minutes. Check for seasoning here and keep the sauce on low heat.
 8. Make the pasta according to package directions, minus 1-2 minutes. Drain the pasta and add it to the bolognese. Cook for another few minutes until the pasta is to your liking, then stir in the parsley to serve.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417739&measure=83148455&labelType=AMERICAN_2016" frameborder="0"></iframe>

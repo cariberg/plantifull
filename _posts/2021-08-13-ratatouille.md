@@ -41,4 +41,4 @@ I’ve kept the simple preparation, adding chickpeas to make this more of a main
 
 <h3> Nutrition Facts </h3>
 
-<img src="assets/images/nutrition-facts/ratatouille.jpg" alt="Nutrition Facts">
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30582286&measure=83748795&labelType=AMERICAN_2016" frameborder="0"></iframe>

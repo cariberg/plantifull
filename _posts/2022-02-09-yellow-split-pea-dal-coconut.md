@@ -47,3 +47,7 @@ This beautiful bright yellow dal is a crowd pleaser. With warming spice from the
 
 - Note about whole spices: If you cannot find or do not have whole spices like cinnamon sticks, cloves, or cardamom pods, you can substitute smaller amounts of ground spices – start with 1/8 tsp. per pod or stick that you’re replacing. However, these will quickly burn in the process of making a tarka so I recommend adding them just before removing the tarka from the heat.
 - Note about cooking yellow split peas: This can be done on the stovetop by combining the peas with 3 1/2 cups of water and the other ingredients and cooking for 30-40 minutes, partially covered.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417619&measure=83147998&labelType=AMERICAN_2016" frameborder="0"></iframe>

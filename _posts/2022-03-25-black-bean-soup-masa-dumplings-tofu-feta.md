@@ -65,3 +65,7 @@ Recently our household is getting over being sick and for the first time I can r
 
 **Notes**
 - If not using an Instant Pot, cook the beans on the stove in a pot for about 1 hour or until done.
+
+- <h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30417499&measure=83147632&labelType=AMERICAN_2016" frameborder="0"></iframe>

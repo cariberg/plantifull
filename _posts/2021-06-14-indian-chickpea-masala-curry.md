@@ -42,3 +42,7 @@ This is one of the simplest recipes we make, involving very few steps (as you’
 2. Add the garlic, ginger, cumin seeds, and tomato paste and stir, cooking for another minute or so. Then add the remaining spices and cook for another 30 seconds until fragrant.
 3. Add the chickpeas, crushed tomatoes, coconut milk, and 1 tsp. of salt and stir to combine. Add water at this point if you’d like a thinner sauce in the curry. Simmer for another 5-10 minutes.
 4. Serve the curry over rice and alongside a roasted vegetable (cabbage is great) or a salad.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30582387&measure=83749107&labelType=AMERICAN_2016" frameborder="0"></iframe>

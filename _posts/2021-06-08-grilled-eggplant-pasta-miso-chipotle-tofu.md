@@ -53,3 +53,7 @@ Last weekend we picked asparagus at the [farm](https://www.monroefarm.com/) wher
 6. Prepare the sun-dried tomato pesto: in a food processor, combine the walnuts, nutritional yeast, garlic, thyme, vinegar, olive oil, and sun-dried tomatoes and process until you have a paste. Add salt and pepper to taste, and more olive oil if you like a thinner pesto.
 7. Chop the eggplant rounds into pieces and combine with the pasta. Add the pesto and toss or use kitchen tongs to gently combine. Add the chopped basil at the end, and season with more salt, pepper, or olive oil as desired.
 8. Serve a tofu steak alongside a helping of pasta salad and asparagus.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30658888&measure=84043871&labelType=AMERICAN_2016" frameborder="0"></iframe>

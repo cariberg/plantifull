@@ -18,7 +18,7 @@ Learning how to dabble in cooking Indian food has been one of my favorite outcom
 
 <h3> Ingredients </h3>
 
-- 1 12-oz. block of firm or extra-firm tofu, cut into ~1/2-inch cubes (\*See Note)
+- 1 14-oz. block of firm or extra-firm tofu, cut into ~1/2-inch cubes (\*See Note)
 - 3 cups cooked chickpeas (\*See Note)
 - 2 tsp. ground turmeric
 - 1 tsp. cayenne pepper
@@ -49,3 +49,7 @@ Learning how to dabble in cooking Indian food has been one of my favorite outcom
 **Notes**
 
 - If using mushrooms or potatoes instead, substitute 3 cups chopped mushrooms or 3 cups cubed potato (such as Yukon Gold) for either or both the tofu and chickpeas
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30659022&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

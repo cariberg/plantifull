@@ -48,3 +48,7 @@ This Mediterranean-inspired bowl is a fresh yet filling option that is very meal
 
 **Assemble bowls**
 4. Divide kale and chickpeas between two bowls. Top each with about a half cup each of tomato cucumber salad and orzo, a generous forkful of pickled onions, and toss with a tablespoon or two of dressing.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31145089&measure=86005745&labelType=AMERICAN_2016" frameborder="0"></iframe>

@@ -35,3 +35,7 @@ Note: this recipe requires a very small bit of pre-work to mix the chickpea flou
 4. In the skillet over medium heat, heat 1 tbsp. of olive oil and add the diced onion. Cook for a few minutes until lightly browned, then add the chopped spinach and half of the chickpea batter. Without stirring, cook for 2-3 minutes until the spinach is slightly wilting. Then add the cherry tomatoes and sausages, scattering them evenly over the surface. Finally, add the remaining chickpea batter.
 5. Let the quiche cook for about 5 more minutes, until the edges begin to solidify. Transfer the skillet to the oven and bake for 40 minutes until the center is firm. Let the quiche rest for 10 minutes after removing it from the oven, during which time it will continue to set.
 6. Sprinkle fresh herbs over the quiche and serve.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31144215&measure=86002372&labelType=AMERICAN_2016" frameborder="0"></iframe>

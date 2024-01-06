@@ -50,3 +50,7 @@ Now that it's finally starting to feel like spring here, I've been craving light
 
 **Assemble bowls**
 3. Divide kale and quinoa between two bowls. Top each with about a cup of curried chickpeas, a generous forkful of onions, and the almonds and cranberries.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31145204&measure=86006148&labelType=AMERICAN_2016" frameborder="0"></iframe>

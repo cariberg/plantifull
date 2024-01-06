@@ -81,3 +81,7 @@ This pizza-inspired plant-based flatbread featuring pesto and almond ricotta is 
     – Scatter roasted veggies over top of the sauces  
     – Generously scatter small scoops or pinches of ricotta over the veggies
 4. Bake the flatbread for another 5-7 minutes until the crust is crisping on the edges and the ricotta is starting to brown.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31144066&measure=86001685&labelType=AMERICAN_2016" frameborder="0"></iframe>

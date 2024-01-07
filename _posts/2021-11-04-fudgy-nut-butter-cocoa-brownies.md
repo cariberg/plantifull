@@ -38,3 +38,7 @@ I’ve always had a soft spot for dessert, but eating more whole foods and plant
 
 **Notes**
 - To make two flax eggs, combine 2 tbsp. ground flaxseeds with 5 tbsp. water and let sit for a few minutes until thickened.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31176098&measure=86114188&labelType=AMERICAN_2016" frameborder="0"></iframe>

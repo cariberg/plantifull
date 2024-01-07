@@ -30,3 +30,7 @@ This beautiful dip is perfect for summer and fall gatherings! It highlights beet
 1. Preheat the oven to 400°F. Wrap the cubed beets and peeled garlic cloves in one or two foil packets and place on a baking sheet. Roast for 40 minutes or until the beets are tender.
 2. While the beets are roasting, place the chopped walnuts on another baking sheet and toast in the same oven for 7-10 minutes or until fragrant.
 3. When the beets have cooled, combine all ingredients in a food processor and blend until smooth, scraping down the sides as needed. Add a tablespoon or two of water if you’d like a thinner consistency, and season with additional salt and pepper as desired.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175607&measure=86112487&labelType=AMERICAN_2016" frameborder="0"></iframe>

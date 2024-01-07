@@ -50,3 +50,7 @@ Winter is here and that means baking (and eating) lots of sweet treats! These ch
 7. Stir into the warm caramel the vanilla, lemon juice, and salt, then transfer the mixture to a glass container. Once cool, refrigerate until you're ready to serve the cupcakes.
 8. Make the whipped coconut cream. Use a spoon to scoop the chilled coconut cream out of its can and into the pitcher of a high-speed blender, avoiding any coconut water that remains at the bottom of the can. Add the maple syrup and vanilla and whip until you have a smooth cream. Place in the refrigerator until you're ready to serve the cupcakes.
 9. Just before serving, top each cupcake with a dollop of coconut cream and drizzle with maple caramel.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175902&measure=86113540&labelType=AMERICAN_2016" frameborder="0"></iframe>

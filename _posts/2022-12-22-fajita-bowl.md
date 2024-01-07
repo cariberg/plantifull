@@ -82,3 +82,7 @@ When we visited Los Angeles last year, we ate at the wonderful [Gracias Madre](h
 **Notes**
 - You could use canned or plain black beans in this bowl to save some time, but the extra effort is worth it for more flavorful beans as written here.
 - If not using an Instant Pot, you can make the beans as written on the stovetop, cooking for about an hour.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175016&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

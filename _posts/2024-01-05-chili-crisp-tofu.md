@@ -37,3 +37,7 @@ This recipe is one of our go-to weeknight meals and also one that we'd happily s
 3. Spoon ~2 tbsp. of the marinade onto each baking tray and spread it around in the center of the tray. Then, place 3 slices of tofu in a row in the center of each tray on top of the sauce. Top each piece of tofu with another small spoonful of the marinade and spread it around to cover the tofu. Scatter a few scallions over each piece of tofu.
 4. Toss the broccoli in a tbsp. or so of olive oil and then spread it along the outsides of the trays.
 5. Place the trays in the oven and roast for about 20 minutes, until the broccoli is crispy. Remove from the oven. Serve the tofu and broccoli over your choice of rice, with any extra marinade and scallions, and more chili crisp on the side.
+ 
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31143718&measure=86000231&labelType=AMERICAN_2016" frameborder="0"></iframe>

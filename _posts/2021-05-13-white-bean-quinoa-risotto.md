@@ -43,3 +43,7 @@ One of many of our go-to recipes from [Laura Wright’s First Mess](https://thef
 **Notes**
 
 - Note on vegetable stock: the original recipe calls for vegetable stock, but this is one (of many) recipes where I feel there is enough flavor from the other components that water can substitute one for one without losing out on much.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31143825&measure=86000670&labelType=AMERICAN_2016" frameborder="0"></iframe>

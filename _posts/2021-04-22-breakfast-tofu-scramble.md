@@ -40,3 +40,7 @@ You could easily swap in other veggies in place of those in this recipe – I’
 4. Using your hands, break and crumble the tofu into the prepared spice paste. Mix well, ensuring the tofu is evenly coated.
 5. Add tofu to the pan with the veggies and cook uncovered for another 5-7 minutes, stirring, until the tofu is browning.
 6. Serve with avocado toast and sriracha or your favorite hot sauce.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31144566&measure=86003860&labelType=AMERICAN_2016" frameborder="0"></iframe>

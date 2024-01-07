@@ -33,3 +33,7 @@ As a kid, I loved eating cereal for breakfast. I no longer have the sweet tooth 
 3. Spread the granola onto the prepared baking sheet in an even layer and bake for 22 minutes, stirring once halfway through.
 4. Let the granola cool completely and then mix in the dried cranberries before transferring to a large container to store.
 5. Serve granola with non-dairy milk, on top of an acai bowl or non-dairy yogurt, or however you like!
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31144177&measure=86002223&labelType=AMERICAN_2016" frameborder="0"></iframe>

@@ -42,3 +42,7 @@ Originally vegetarian, we added some tweaks to the recipe and voila – a really
 
 1. We primarily cook our beans from dry, and have not tested this recipe with canned beans which have a much different texture. My recommendation if using canned beans: dehydrate 3 cans’ worth of black beans in the oven (as suggested in the original recipe) for about 10 minutes at 350°F to avoid the burgers just turning into a mush. Try not to dry them out too much, or the burgers may not hold together.
 2. To make a flax egg, mix 1 tbsp. of ground flaxseeds with 2.5 tbsp. water and let sit for about 5 minutes until thickened.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=30659036&measure=84044311&labelType=AMERICAN_2016" frameborder="0"></iframe>

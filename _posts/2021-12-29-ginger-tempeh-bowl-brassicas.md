@@ -45,3 +45,7 @@ Tempeh is such an awesome vegan protein – it’s a whole food, it’s fermente
 5. Add to the tempeh 2 tbsp. of grated ginger and 1 of the cloves of grated garlic and stir for another 30 seconds, then add the soy sauce mixture. Cook for another 5 minutes or so until the sauce has mostly absorbed or cooked off. Set the tempeh aside.
 6. Make the miso-ginger dressing: In a bowl, combine the miso paste, 2 tbsp. soy sauce, 1 tbsp. rice vinegar, 2 tbsp. grated ginger, 2 cloves of grated garlic, sesame oil, and a few dashes of cayenne pepper or chili flakes. Add 1/4 cup of water and 1/4 cup of olive oil and blend using an immersion blender (you could also use an emulsifier or upright blender here). Stream in up to 1/4 cup of additional olive oil until the dressing reaches your desired consistency.
 7. To assemble the bowls, top rice with lentils, veggies, tempeh, and dressing.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175043&measure=86110569&labelType=AMERICAN_2016" frameborder="0"></iframe>

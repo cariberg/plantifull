@@ -20,7 +20,7 @@ I love cooking with beets for their beautiful bright color and mellow sweet flav
 - 2 cups cooked green lentils
 - 2 cups beets (about 3 medium beets)
 - 1 yellow onion, small dice
-- 1/3 walnuts or nuts of your choice, chopped
+- 1/3 cup walnuts or nuts of your choice, chopped
 - 4-6 cloves garlic, minced
 - 3/4 tsp. ground cumin
 - 1 tsp. red pepper flakes
@@ -37,3 +37,7 @@ I love cooking with beets for their beautiful bright color and mellow sweet flav
 4. Mix the ingredients: In a food processor, combine half the lentils, half the rice, and half the beets and pulse a few times until well mixed. Then add the onion mixture, nutritional yeast, breadcrumbs, almond butter, and soy sauce and pulse again until mixed. Stir the remaining lentils, rice, and beets into the mixture. You can play around with the quantities in this step to get your ideal texture. Taste for seasoning, adding salt and more spices if needed.
 5. Form the mixture into patties and place them on a baking sheet. Bake for 20-25 minutes at 400°F or until they are lightly browned.
 6. Top with hummus, mustard, avocado, or your favorite toppings.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175176&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

@@ -46,3 +46,7 @@ A simple and satisfying lunch that is very meal-preppable, this bowl leans on a 
 
 **Assemble bowls**
 4. Divide kale and rice between two bowls. Top each with 3/4 cup of lentils, 1/2 cup each of roasted sweet potatoes and broccoli, 2 tbsp. of pumpkin seeds, and top with a few spoonfuls of umami sauce.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31174659&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

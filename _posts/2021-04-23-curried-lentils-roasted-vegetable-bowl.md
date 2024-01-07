@@ -53,3 +53,7 @@ Play around with different grains and vegetables in this and let us know what yo
 1. In a large pot, heat a tbsp. of olive oil over medium heat. Once hot, add the diced onion and cook, stirring occasionally, for 5-8 minutes until the onion is translucent and starting to brown. Add the garlic, ginger, and spices. Stir and let cook for another minute or two.
 2. Add the soy sauce and reduce for a minute. Then add the lentils, coconut milk, and 4 3/4 cups of water. Stir and bring to a boil, then reduce to a simmer and cook, keeping the pot partially covered, for about 10 minutes or until lentils are soft.
 3. Assemble bowls starting with a heaping 1/2 cup of rice, generous scoops of each of the veggies, and 1 cup of lentils.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175288&measure=86111459&labelType=AMERICAN_2016" frameborder="0"></iframe>

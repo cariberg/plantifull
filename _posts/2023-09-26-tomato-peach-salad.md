@@ -25,3 +25,7 @@ It's somehow the end of September but thankfully the peaches and tomatoes here i
 <h3> Directions </h3>
 
 1. Gently mix the cubed tomatoes, peaches, and sliced basil in a bowl. Drizzle with vinegar and oil, and sprinkle with salt.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175590&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

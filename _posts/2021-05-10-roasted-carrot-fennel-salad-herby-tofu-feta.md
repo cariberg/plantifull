@@ -48,3 +48,7 @@ We love this dish for its light summery vibes yet substantial nutrition, and oft
 6. Finely chop the carrot tops or parsley.
 7. Once the veggies have cooled, combine them in a bowl with the carrot tops/parsley, lemon juice, a few tbsp. of olive oil, and salt and pepper to taste. Fold in the tofu feta.
 8. Just before serving, add the toasted walnuts.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175825&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

@@ -37,3 +37,7 @@ Now that it's fall, I've been craving comfort food. Warm dishes with lots of spi
 2. While the lentils are cooking, heat a splash of avocado oil in a large skillet over medium heat. When hot, add the onion and cook for 4-6 minutes until soft. Then add the cumin seeds, chiles, ginger, and garlic and cook for another minute or two until the onion is translucent and the spices are aromatic.
 3. Add the tomatoes and turmeric and cook for about another 7 minutes until the tomatoes are very soft. Then add the lentils to the skillet along with the garam masala, fenugreek seeds, and coconut milk. Stir in 1/2 tsp. salt and about 3/4 cup of lentil cooking water until the consistency is creamy but not too thin.
 4. Simmer on low heat for at least 10 and up to 30 minutes, stirring occasionally and adding water if needed to thin. Serve hot over rice.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31143414&measure=85999172&labelType=AMERICAN_2016" frameborder="0"></iframe>

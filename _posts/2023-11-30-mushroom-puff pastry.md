@@ -46,3 +46,7 @@ For Thanksgiving this year, we decided to make Alexa Weibel's [Mushroom Wellingt
 **Notes**
 - Most store-bought puff pastry that I've seen is made with vegetable oils and so is vegan, but double check the brand before you purchase it. If using homemade puff pastry I applaud you, just be sure to use vegan butter in your recipe.
 - If you eat eggs, you can use egg wash instead of olive oil in steps 8-9 to brush the surface of the puff pastry - it will produce a richer golden color for your showstopper.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31143574&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

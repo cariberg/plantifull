@@ -69,3 +69,7 @@ This recipe was inspired by combining a few components from other favorite meals
 
 **Assemble burritos**
 1. In each tortilla, place generous spoonfuls of beans, tofu, and potatoes. Layer on sliced avocado and salsa before folding the ends of the tortilla inward and rolling until you have a nicely packaged burrito. Warm in a frying pan over low heat for a few minutes to seal the burrito. Serve with more salsa on the side.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31144337&measure=86002870&labelType=AMERICAN_2016" frameborder="0"></iframe>

@@ -36,3 +36,7 @@ We make this hummus in admittedly large quantities, so feel free to halve the re
 **Notes**
 
 - \*2 15-oz. cans of cooked chickpeas can be substituted here. When making the hummus, start with a bit less water if using canned beans.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175739&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

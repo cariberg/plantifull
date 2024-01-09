@@ -38,3 +38,7 @@ These Asian-inspired dumplings are a fun and easy mash-up, using store bought Ch
 3. Repeat, filling dumplings until you've used all the edamame puree. At this point, you may freeze any dumplings you won't be eating today. Spread them out on a baking sheet and let freeze before storing in a container or freezer bag.
 4. Prepare the dipping sauce by whisking together all ingredients.
 5. To pan fry dumplings, begin with fresh or defrosted dumplings. Heat a small amount of avocado oil in a frying pan over medium-high heat. Add the dumplings, flattening them against the pan, and push them around a bit to ensure they don't stick. Fry for 1-2 minutes until the bottoms are golden brown, then add about 1/4 cup of water to the pan and immediately cover the pan with a vented lid. Watch out for oil spattering here as well. Let the dumplings continue to cook for about 5 minutes or until the water is almost completely evaporated. Remove from heat and serve with the dipping sauce.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31176333&measure=86115057&labelType=AMERICAN_2016" frameborder="0"></iframe>

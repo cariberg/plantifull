@@ -84,3 +84,7 @@ Based on a recipe from [Cafe Gratitude's cookbook](https://cafegratitude.com/pro
 
 **Assemble salad**
 7. Divide lettuce, tomato, avocado, and capers between two bowls. Top each with 1/2 cup of tempeh cubes, 1/4 cup of coconut bacon, and toss with 1/4 cup of cashew caesar dressing.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31174842&measure=86109717&labelType=AMERICAN_2016" frameborder="0"></iframe>

@@ -43,3 +43,7 @@ This warming, hearty stew leans heavily on the chickpea and comes together quick
 3. While lablabi is simmering, prepare the harissa: mix together all ingredients into a paste, adjusting seasonings to taste.
 4. Once the stew has simmered for 20 minutes, use an immersion blender to partially puree it, leaving about half of the chickpeas whole. Taste for seasonings and add more water if you’d like the stew thinner.
 5. Serve the lablabi over your choice of grain – we love millet with this – and with a generous swirl of harissa on top.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31143918&measure=86001013&labelType=AMERICAN_2016" frameborder="0"></iframe>

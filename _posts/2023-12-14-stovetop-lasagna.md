@@ -57,3 +57,7 @@ This recipe is definite vegan comfort food, perfect for cold nights when you're 
 **Notes**
 - To use non-oven ready lasagna noodles in this dish: cook noodles in boiling water for 2 minutes less than instructed before draining, cutting into thirds, and adding in step 4.
 - We've used a variety of veggies in this recipe from mushrooms to broccoli to eggplant - if cauliflower isn't your favorite, try substituting 2 cups of a different seasonal veg instead!
+ 
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31143592&measure=85999807&labelType=AMERICAN_2016" frameborder="0"></iframe>

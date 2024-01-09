@@ -33,3 +33,7 @@ This open-faced sandwich is based on a delicious lunch we had at [Bonfire Coffee
 1. Toast the bread.
 2. Spread about a tbsp of pesto onto each piece of bread. Top with about 2 tbsp. of hummus and a few slices of avocado.
 3. Top with sliced tomato and cucumber. Add basil or other fresh herb, drizzle with olive oil, and sprinkle some salt on top.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175244&measure=86111304&labelType=AMERICAN_2016" frameborder="0"></iframe>

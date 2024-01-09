@@ -29,3 +29,7 @@ This deceptively delicious salad is the perfect addition to a summer meal. Light
 
 1. Prepare the dressing: in a high-speed blender, combine the raw cashews with 2 tbsp. of water, the lime juice, Sriracha, and salt. Blend until smooth, adding more water to reach your desired consistency.
 2. Combine all ingredients and fold together. Adjust salt and seasonings as needed.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175645&measure=86112629&labelType=AMERICAN_2016" frameborder="0"></iframe>

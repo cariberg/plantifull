@@ -40,3 +40,7 @@ Chocolate chip cookies have always been my favorite dessert, and one of my favor
 - The chocolate chips are such an important component to this recipe that I recommend splurging for a high-quality option - we like Guittard.
 - I've written before on this blog about how I prefer desserts to be less sweetened. I use 1/4 cup of sugar in this recipe, which I find perfect, but if you have more of a sweet tooth you may want to go up to the 1/2 cup.
 - You *could* make these cookies smaller and bake them for less time - cookies that are half this size might take around 8 minutes to bake - but I'll encourage you one last time to make them as written. You'll thank me after you eat one and realize it's the perfect sized treat.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31175984&measure=86113813&labelType=AMERICAN_2016" frameborder="0"></iframe>

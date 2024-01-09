@@ -36,3 +36,7 @@ Last summer, the farm where we get our CSA started fire roasting chiles to distr
 3. Heat another splash of oil in the skillet over high heat. Use your hands to crumble the tofu into a bowl, aiming for bite size-ish pieces, then add the tofu to the skillet once it's hot. Cook for 5-7 minutes until the tofu is beginning to brown.
 4. Lower the heat to medium and pour the sauce from the blender into the skillet, stirring to coat the tofu. Heat for another few minutes, stirring occasionally, until the sofritas are hot.
 5. Serve the sofritas in a bowl or tortilla with your choice of accompaniments - we like pinto or black beans, avocado, and salsa.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31144638&measure=86004117&labelType=AMERICAN_2016" frameborder="0"></iframe>

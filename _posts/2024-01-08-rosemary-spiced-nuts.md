@@ -26,3 +26,7 @@ Over the holidays we had family staying with us, and it was really fun to have e
 2. Spread the nuts onto the tray and toast for about 8 minutes, until lightly fragrant.
 3. Meanwhile, mix all other ingredients together in a large bowl. When the nuts are toasted, remove them from the oven (but leave the oven on) and add them to the herb butter mixture, stirring to coat.
 4. Spread the nuts out onto the tray again and roast for another 8 minutes or until the rosemary is very fragrant.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31241552&measure=86351327&labelType=AMERICAN_2016" frameborder="0"></iframe>

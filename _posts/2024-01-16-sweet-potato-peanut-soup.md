@@ -36,3 +36,8 @@ It has been *cold* in Colorado recently! We've been on a major soup kick as a re
 
 1. Combine all ingredients except for the spinach and the lime juice into the insert of an Instant Pot and stir well. Place the insert in the Instant Pot and cook on high pressure for 6 minutes, then allow to slow release for another 10 minutes before de-pressuring.
 2. Stir in the spinach and lime juice, and then season for salt, lime, and spice.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31501587&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>
+

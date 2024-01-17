@@ -39,5 +39,4 @@ It has been *cold* in Colorado recently! We've been on a major soup kick as a re
 
 <h3> Nutrition Facts </h3>
 
-<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31501587&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>
-
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=31501587&measure=87346038&labelType=AMERICAN_2016" frameborder="0"></iframe>

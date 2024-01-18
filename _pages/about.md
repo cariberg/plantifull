@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: 'About'
 layout: about
-permalink: "/about.html"
+permalink: /about
 image: "/assets/images/Family Photo.jpg"
 comments: false
 ---

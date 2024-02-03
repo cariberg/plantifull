@@ -11,7 +11,7 @@ tags:
     - gluten-free
 ---
 
-We're still cruising through soup season and recently added this recipe to our rotation (in fact, we made it twice in one week!) This soup, adapted from [Bon Appetit](https://www.bonappetit.com/recipe/green-curry-lentil-soup), is a nice change of pace from our other lentil soup recipes which tend to be tomato-ey. The rich coconut-milky broth and bright flavors from the curry paste make a really nice base for the lentils and sweet potatoes.
+We're still cruising through soup season and recently added this recipe to our rotation (in fact, we made it twice in one week!) This soup, adapted from [Bon Appetit](https://www.bonappetit.com/recipe/green-curry-lentil-soup), is a nice change of pace from our other lentil soup recipes which tend to be tomato-ey and, let's be honest, a little earthy. The rich coconut-milky broth and bright flavors from the curry paste make a really nice base for the lentils and sweet potatoes.
 
 <h3> Ingredients </h3>
 

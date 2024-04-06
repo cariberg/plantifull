@@ -39,3 +39,4 @@ This is yet another weeknight-friendly crowd pleaser adapted from [Richa Hingleâ
 
 <h3> Nutrition Facts </h3>
 
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=33943971&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>

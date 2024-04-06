@@ -34,3 +34,8 @@ We're still cruising through soup season and recently added this recipe to our r
 1. In a large pot over medium heat, warm a splash of avocado oil. Once hot, add the chopped onion and saute for about 3 minutes until soft. Then add the ginger and garlic and let cook for another minute. Stir in the curry paste and cook for one more minute.
 2. Add the vegetable stock, 1/2 tsp. of salt, sweet potatoes, lentils, and 1 cup of water and stir all together. Bring back to a simmer and let cook, covered, for 20-25 minutes or until the lentils are soft.
 3. Stir in the spinach, coconut milk, and vegan fish sauce. Squeeze half the lime into the soup and then taste, adding more salt or lime as needed to balance the flavors.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=33943539&measure=96514595&labelType=AMERICAN_2016" frameborder="0"></iframe>
+

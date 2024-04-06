@@ -32,7 +32,7 @@ Last summer, the farm where we get our CSA started fire roasting chiles to distr
 <h3> Directions </h3>
 
 1. Heat a splash of avocado oil over high heat in a large skillet. When hot, add the bell pepper and onion and cook for 5-7 minutes, until the veggies are soft. Add the tomato, garlic, tomato paste, cumin, and chili powder and cook for another 3-4 minutes until the tomatoes are soft. Add the soy sauce and scrape up any browned bits from the bottom of the skillet, then remove from heat.
-2. Carefully transfer the contents of the skillet into a high-speed blender. Add the fire-roasted chiles and about 1/4 cup of water and blend until you have a smooth sauce. Add water 2 tablespoons at a time if needed to reach a consistency of medium thickness.
+2. Carefully transfer the contents of the skillet into a high-speed blender. Add the fire-roasted chiles, salt, and smoked paprika along with about 1/4 cup of water and blend until you have a smooth sauce. Add water 2 tablespoons at a time if needed to reach a consistency of medium thickness.
 3. Heat another splash of oil in the skillet over high heat. Use your hands to crumble the tofu into a bowl, aiming for bite size-ish pieces, then add the tofu to the skillet once it's hot. Cook for 5-7 minutes until the tofu is beginning to brown.
 4. Lower the heat to medium and pour the sauce from the blender into the skillet, stirring to coat the tofu. Heat for another few minutes, stirring occasionally, until the sofritas are hot.
 5. Serve the sofritas in a bowl or tortilla with your choice of accompaniments - we like pinto or black beans, avocado, and salsa.

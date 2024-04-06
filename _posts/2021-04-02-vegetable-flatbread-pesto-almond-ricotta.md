@@ -9,7 +9,6 @@ categories: [main]
 tags:
     - Italian
     - white-beans
-    - featured
 ---
 
 This pizza-inspired plant-based flatbread featuring pesto and almond ricotta is one of our favorite meals that feels like a treat – it’s filling, delicious, and (almost) satisfies our seemingly perpetual cravings for pizza. It’s a great weekend option or, the dough and all of the toppings could be made in advance and assembled for a quick weeknight meal. There are a number of components but don’t be intimidated – it’s basically just a lot of grinding things in a food processor. The recipe is also very flexible so feel free to try new variations on the theme and tell us what worked!

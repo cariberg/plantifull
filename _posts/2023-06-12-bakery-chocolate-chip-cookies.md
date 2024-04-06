@@ -7,6 +7,7 @@ permalink: /bakery-vegan-chocolate-chip-cookies/
 image: assets/images/chocolate-chip-cookies.jpg
 tags:
     - gluten-free
+    - featured
 ---
 
 Chocolate chip cookies have always been my favorite dessert, and one of my favorite foods in general. I'll go far out of my way for a good vegan chocolate chip cookie, but since I started baking these I don't have to anymore! Adapted from [Cafe Gratitude's](https://www.penguinrandomhouse.com/books/598239/love-is-served-by-cafe-gratitude-with-seizan-dreux-ellis/) original recipe, these cookies are chonky, bakery-sized, made of whole-food ingredients, and loaded with chocolate chips and walnuts. If you have company, make a double batch because despite their size, these will go fast!

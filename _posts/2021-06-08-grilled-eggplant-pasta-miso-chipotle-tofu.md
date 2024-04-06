@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /grilled-eggplant-pasta-miso-chipotle-tofu/
 image: assets/images/Grilled Tofu & Pasta Salad.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - pasta
     - tofu

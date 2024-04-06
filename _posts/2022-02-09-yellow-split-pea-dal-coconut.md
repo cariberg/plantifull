@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /yellow-split-pea-dal-coconut/
 image: assets/images/yellow split pea dal.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - 30-minutes-or-less
     - Indian

@@ -2,7 +2,7 @@
 layout: post
 title: "Sheet Pan Chili Crisp Tofu"
 author: cari
-categories: [dinner]
+categories: [main]
 permalink: /chili-crisp-tofu/
 image: assets/images/Chili-Crisp-Tofu.jpg
 tags:

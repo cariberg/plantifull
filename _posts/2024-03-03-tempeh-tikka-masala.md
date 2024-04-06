@@ -4,7 +4,7 @@ author: cari
 layout: post
 permalink: /tempeh-tikka-masala/
 image: assets/images/tempeh-tikka-masala.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - indian
     - tempeh

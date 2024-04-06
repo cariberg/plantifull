@@ -2,7 +2,7 @@
 layout: post
 title: "Greens & Grains Bowl with Curried Chickpeas and Broccoli"
 author: cari
-categories: [lunch]
+categories: [meal-prep]
 permalink: /curried-chickpea-bowl/
 image: assets/images/curried-chickpeas.jpg
 tags:

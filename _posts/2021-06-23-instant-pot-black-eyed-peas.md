@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /instant-pot-black-eyed-peas/
 image: assets/images/Black Eyed Peas.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - instant-pot
     - gluten-free

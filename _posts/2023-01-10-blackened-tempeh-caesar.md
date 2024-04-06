@@ -2,7 +2,7 @@
 layout: post
 title: "Blackened Tempeh Caesar Salad"
 author: chad
-categories: [lunch]
+categories: [meal-prep]
 image: assets/images/caesar.jpg
 tags:
     - tempeh

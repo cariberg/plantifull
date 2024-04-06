@@ -2,7 +2,7 @@
 layout: post
 title: "Black Lentil Dal"
 author: cari
-categories: [dinner]
+categories: [main]
 permalink: /black-lentil-dal/
 image: assets/images/black-lentil-dal.jpg
 tags:

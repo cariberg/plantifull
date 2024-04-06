@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /black-bean-soup/
 image: assets/images/Black Bean Soup.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - black-beans
     - instant-pot

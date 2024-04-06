@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /black-bean-chili-plantains/
 image: assets/images/Black Bean Plantain Chili.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - 30-minutes-or-less
     - black-beans

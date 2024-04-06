@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /thai-curry-coconut-milk/
 image: assets/images/Thai Curry.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - 30-minutes-or-less
     - curry

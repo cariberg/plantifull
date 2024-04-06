@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /saag-indian-spinach-curry/
 image: assets/images/Saag.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - curry
     - Indian

@@ -2,7 +2,7 @@
 layout: post
 title: "Stovetop 'Lasagna' with Almond Ricotta & Spinach Pesto"
 author: cari
-categories: [dinner]
+categories: [main]
 permalink: /stovetop-lasagna/
 image: assets/images/Lasagna.jpg
 tags:

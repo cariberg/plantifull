@@ -2,7 +2,7 @@
 layout: post
 title: "Mushroom Fajita Bowl with Cashew Queso"
 author: cari
-categories: [lunch]
+categories: [meal-prep]
 permalink: /mushroom-fajita-bowl/
 image: assets/images/Fajita-Bowl.jpg
 tags:

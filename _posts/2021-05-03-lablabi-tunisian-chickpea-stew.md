@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /lablabi-tunisian-chickpea-stew/
 image: assets/images/Lablabi.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - chickpeas
     - soup

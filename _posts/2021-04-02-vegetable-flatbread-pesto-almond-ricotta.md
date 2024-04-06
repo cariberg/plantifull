@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /vegetable-flatbread-pesto-almond-ricotta/
 image: assets/images/Flatbread.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - Italian
     - white-beans

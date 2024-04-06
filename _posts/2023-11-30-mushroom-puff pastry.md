@@ -2,7 +2,7 @@
 layout: post
 title: "Showstopping Mushrooms in Puff Pastry"
 author: cari
-categories: [dinner]
+categories: [main]
 permalink: /mushroom-puff-pastry/
 image: assets/images/Mushroom-Puff-Pastry.jpg
 tags:

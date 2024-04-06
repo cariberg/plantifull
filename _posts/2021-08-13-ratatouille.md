@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /ratatouille/
 image: assets/images/Ratatouille.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - chickpeas
     - summer

@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /chipotle-black-bean-burgers/
 image: assets/images/Black Bean Burgers.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - black-beans
     - burger

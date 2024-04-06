@@ -2,7 +2,7 @@
 layout: post
 title: "Pasta with Tempeh Bolognese"
 author: cari
-categories: [dinner]
+categories: [main]
 permalink: /tempeh-bolognese/
 image: assets/images/Tempeh-Bolognese.jpg
 tags:

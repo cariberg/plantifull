@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /curried-lentils-roasted-vegetable-bowl/
 image: assets/images/Curried Lentil Bowl.jpg
-categories: [lunch]
+categories: [meal-prep]
 tags:
     - meal-prep
     - Indian

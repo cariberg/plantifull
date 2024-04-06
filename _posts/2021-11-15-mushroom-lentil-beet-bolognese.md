@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /mushroom-lentil-beet-bolognese/
 image: assets/images/Mushroom Bolognese.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - Italian
     - lentils

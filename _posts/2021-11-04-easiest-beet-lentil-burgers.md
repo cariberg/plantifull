@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /easiest-beet-lentil-burgers/
 image: assets/images/Beet Burgers.jpg
-categories: [lunch]
+categories: [meal-prep]
 tags:
     - burger
     - lentils

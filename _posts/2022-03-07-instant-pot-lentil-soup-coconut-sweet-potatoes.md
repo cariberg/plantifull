@@ -5,7 +5,7 @@ author: cari
 layout: post
 permalink: /instant-pot-lentil-soup/
 image: assets/images/Lentil Sweet Potato Soup.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - 30-minutes-or-less
     - lentils

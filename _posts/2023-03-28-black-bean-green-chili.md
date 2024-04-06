@@ -2,7 +2,7 @@
 layout: post
 title: "Instant Pot Green Chile Black Beans with Roasted Sweet Potatoes"
 author: cari
-categories: [dinner]
+categories: [main]
 permalink: /green-chile-black-beans/
 image: assets/images/green-chile-beans.jpg
 tags:

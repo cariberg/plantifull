@@ -2,7 +2,7 @@
 layout: post
 title: "Umami Power Bowl"
 author: cari
-categories: [lunch]
+categories: [meal-prep]
 permalink: /umami-power-bowl/
 image: assets/images/umami-power-bowl.jpg
 tags:

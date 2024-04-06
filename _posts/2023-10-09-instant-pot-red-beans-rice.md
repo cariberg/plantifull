@@ -4,7 +4,7 @@ author: cari
 layout: post
 permalink: /instant-pot-red-beans-rice/
 image: assets/images/red-beans-and-rice.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - instant-pot
     - gluten-free

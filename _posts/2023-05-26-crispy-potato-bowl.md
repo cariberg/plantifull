@@ -2,7 +2,7 @@
 layout: post
 title: "Crispy Potatoes with Sauteed Cabbage and Jalapeno-Ginger Vinegar"
 author: cari
-categories: [dinner]
+categories: [main]
 permalink: /crispy-potatoes-jalapeno-vinegar/
 image: assets/images/Crispy-Potato-Bowl.jpg
 tags:

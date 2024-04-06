@@ -4,7 +4,7 @@ date: '2021-04-14T16:34:19+00:00'
 author: Cari
 layout: post
 permalink: /butternut-squash-farrotto/
-categories: [dinner]
+categories: [main]
 tags:
     - grains
     - Italian

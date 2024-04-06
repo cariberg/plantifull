@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /carrot-miso-soup-garlicky-chickpeas/
 image: assets/images/Carrot Soup.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - carrots
     - chickpeas

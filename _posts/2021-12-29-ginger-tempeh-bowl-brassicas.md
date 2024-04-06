@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /ginger-tempeh-bowl-brassicas/
 image: assets/images/Tempeh Bowl.jpg
-categories: [lunch]
+categories: [meal-prep]
 tags:
     - meal-prep
     - cruciferous

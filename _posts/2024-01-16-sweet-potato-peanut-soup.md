@@ -4,7 +4,7 @@ author: cari
 layout: post
 permalink: /sweet-potato-peanut-soup/
 image: assets/images/sweet-potato-peanut-soup.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - soup
     - chickpeas

@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /white-bean-quinoa-risotto/
 image: assets/images/Quinoa Risotto.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - cruciferous
     - grains

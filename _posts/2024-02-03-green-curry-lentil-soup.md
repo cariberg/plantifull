@@ -4,7 +4,7 @@ author: cari
 layout: post
 permalink: /green-curry-lentil-soup/
 image: assets/images/Green-Curry-Lentil-Soup.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - soup
     - lentils

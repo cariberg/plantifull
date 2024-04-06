@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /black-bean-pumpkin-soup/
 image: assets/images/Black Bean Pumpkin Soup.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - black-beans
     - soup

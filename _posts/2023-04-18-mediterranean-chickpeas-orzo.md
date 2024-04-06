@@ -2,7 +2,7 @@
 layout: post
 title: "Mediterranean Bowl with Herbed Orzo & Greek Cashew Dressing"
 author: cari
-categories: [lunch]
+categories: [meal-prep]
 permalink: /mediterranean-orzo-bowl/
 image: assets/images/mediterranean-bowl-orzo.jpg
 tags:

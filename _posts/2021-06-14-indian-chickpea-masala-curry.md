@@ -5,7 +5,7 @@ author: Cari
 layout: post
 permalink: /indian-chickpea-masala-curry/
 image: assets/images/Chana masala.jpg
-categories: [dinner]
+categories: [main]
 tags:
     - chickpeas
     - curry

@@ -5,10 +5,9 @@ author: Cari
 layout: post
 permalink: /summer-sandwich-avocado-hummus-pesto/
 image: assets/images/Summer Toast.jpg
-categories: [meal-prep]
+categories: [main]
 tags:
     - summer
-    - featured
     - 30-minutes-or-less
 ---
 

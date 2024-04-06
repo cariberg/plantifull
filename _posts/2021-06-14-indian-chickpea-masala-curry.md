@@ -10,7 +10,6 @@ tags:
     - chickpeas
     - curry
     - Indian
-    - featured
     - gluten-free
     - 30-minutes-or-less
     - meal-prep

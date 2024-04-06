@@ -2,7 +2,7 @@
 layout: post
 title: "Easy Green Chile Tofu Sofritas"
 author: cari
-categories: [meal-prep]
+categories: [main]
 permalink: /sofritas/
 image: assets/images/Green-Chile-Sofritas.jpg
 tags:

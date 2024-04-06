@@ -41,3 +41,7 @@ Last week I had to travel for work, and when I got home I was so excited for hom
 4. Add the tomato puree to the pot and stir to combine. Cook for about 10 minutes until the sauce has thickened and the flavor of the tomato and jalapeno have mellowed.
 5. Add the coconut milk, water, apple cider vinegar, and 3/4 tsp. of salt to the pot and stir. Cook for another 10 minutes until the sauce has thickened to your desired consistency. Taste and adjust seasonings if needed.
 6. Serve over rice and alongside a simple roasted veggie.
+
+<h3> Nutrition Facts </h3>
+
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=33943768&measure=96515480&labelType=AMERICAN_2016" frameborder="0"></iframe>

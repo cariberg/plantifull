@@ -35,7 +35,7 @@ This is our go-to method for cooking beans. It’s very easy but does require a 
 2. Drain and rinse beans: Drain the beans in a colander and rinse them with water.
 3. Cook beans (Instant Pot method): Place beans in the IP and add water to cover by a couple inches. Add salt – start with about 1/4 tsp. per 1/2 cup of dried beans – and any other seasonings or flavor enhancers you’d like (we like to throw a bay leaf in for added flavor, and sometimes half an onion and a few garlic cloves). Cook the beans on high pressure for the required amount of time – see time chart below and note that depending on your Instant Pot and your beans, the cook time may vary. Then let the IP slow release for 10 minutes before doing a quick release and draining the beans.
 
-![Bean Cooking Times](/assets/images/Bean-Cooking-Times.jpg)
+![Bean Cooking Times](/assets/images/Bean-Cooking-Times.png)
 
 Recommended Instant Pot pressure cook times for beans.
    

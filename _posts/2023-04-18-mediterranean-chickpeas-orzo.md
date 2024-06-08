@@ -37,8 +37,9 @@ This Mediterranean-inspired bowl is a fresh yet filling option that is very meal
 
 **To assemble**
 - 3 cups shredded lacinato kale, lightly massaged
-- 2 cups cooked chickpeas, seasoned with salt and garlic powder
+- 2 cups cooked chickpeas, seasoned with salt, dried oregano, and garlic powder
 - 1/3 cup [quick pickled onions]({% post_url 2023-04-11-curried-chickpea-bowl %})
+- 2 tbsp. roasted sunflower seeds
 
 <h3> Directions </h3>
 
@@ -47,7 +48,7 @@ This Mediterranean-inspired bowl is a fresh yet filling option that is very meal
 3. Combine all ingredients for the greek cashew dressing in a high speed blender and blend until smooth. Adjust salt and nutritional yeast to taste.
 
 **Assemble bowls**
-4. Divide kale and chickpeas between two bowls. Top each with about a half cup each of tomato cucumber salad and orzo, a generous forkful of pickled onions, and toss with a tablespoon or two of dressing.
+4. Divide kale and chickpeas between two bowls. Top each with about a half cup each of tomato cucumber salad and orzo, a generous forkful of pickled onions, sunflower seeds, and toss with a tablespoon or two of dressing.
 
 <h3> Nutrition Facts </h3>
 

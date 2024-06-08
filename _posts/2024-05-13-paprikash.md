@@ -3,7 +3,7 @@ title: 'Vegan Paprikash with Mushrooms and Potatoes'
 author: cari
 layout: post
 permalink: /paprikash/
-categories: [dinner]
+categories: [main]
 tags:
     - chickpeas
     - gluten-free

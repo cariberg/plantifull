@@ -2,7 +2,7 @@
 layout: post
 title: "Lemony Asparagus Salad with Walnuts and Crispy Bread Crumbs"
 author: cari
-categories: [side]
+categories: [sides]
 permalink: /asparagus-salad/
 image: assets/images/asparagus-salad.jpg
 tags:

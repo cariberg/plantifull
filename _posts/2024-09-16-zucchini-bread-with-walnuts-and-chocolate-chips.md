@@ -39,4 +39,4 @@ this is a great dessert or even a pre-run snack as a muffins (my preferred style
 
 <h3> Nutrition Facts </h3>
 
-<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=39079755&measure=0&labelType=AMERICAN_2016" frameborder="0"></iframe>
+<iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=39079755&measure=117096013&labelType=AMERICAN_2016" frameborder="0"></iframe>

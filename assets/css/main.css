@@ -387,6 +387,10 @@ mark,
   .list-inline-item:not(:last-child) {
     margin-right: 0.5rem; }
 
+.list-ingredients {
+  list-style-type: none;
+  padding-left: 0;  }
+
 .initialism {
   font-size: 90%;
   text-transform: uppercase; }
@@ -8460,8 +8464,3 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
-
-.ingredients-list {
-  list-style-type: none;
-  padding-left: 0;
-}

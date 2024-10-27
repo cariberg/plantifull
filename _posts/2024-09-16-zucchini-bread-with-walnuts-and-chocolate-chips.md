@@ -14,6 +14,12 @@ this is a great dessert or even a pre-run snack as a muffins (my preferred style
 
 <h3> Ingredients </h3>
 
+<ul>
+  <li><input type="checkbox"> Ingredient 1</li>
+  <li><input type="checkbox"> Ingredient 2</li>
+  <li><input type="checkbox"> Ingredient 3</li>
+</ul>
+
 - [ ] 1 medium/large zucchini, shredded and pressed
 - 1 ½ cups spelt flour
 - 1 tsp baking powder

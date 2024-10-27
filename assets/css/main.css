@@ -8460,3 +8460,8 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+.ingredients-list {
+  list-style-type: none;
+  padding-left: 0;
+}

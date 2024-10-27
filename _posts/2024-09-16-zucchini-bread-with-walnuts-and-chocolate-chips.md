@@ -10,17 +10,20 @@ tags:
 
 This is a delicious, moist vegan take on zucchini bread without being too sweet! Adapted 
 (and made easier) from [Laura Wright's First Mess recipe](https://thefirstmess.com/2020/08/12/vegan-spelt-zucchini-bread-recipe/#recipe), 
-this is a great dessert or even a pre-run snack as a muffins (my preferred style!). 
+this is a great dessert or even a pre-run snack as a muffin (my preferred style!).
+
+<div class="switch-container">
+  <label class="switch">
+    <input type="checkbox" id="cook-mode-toggle">
+    <span class="slider"></span>
+  </label>
+  <span class="toggle-label">Cook Mode</span>
+</div>
+
 
 <h3> Ingredients </h3>
 
-<ul class="list-unstyled">
-  <li><input type="checkbox"> Ingredient 1</li>
-  <li><input type="checkbox"> Ingredient 2</li>
-  <li><input type="checkbox"> Ingredient 3</li>
-</ul>
-
-- [ ] 1 medium/large zucchini, shredded and pressed
+- 1 medium/large zucchini, shredded and pressed
 - 1 ½ cups spelt flour
 - 1 tsp baking powder
 - 1 tsp baking soda 

@@ -60,11 +60,11 @@ This pizza-inspired plant-based flatbread featuring pesto and almond ricotta is 
 **Prepare the dough**
 1. Combine the yeast, sugar, salt, and 1 cup of flour in a medium bowl. Add olive oil and water and stir well.
 2. Gradually add another 1 1/4 cup of flour while continuing to stir, using your hands if needed, until the dough is a cohesive ball. Knead the dough lightly for a minute or two in the bowl.
-4. Form the dough into a ball and place in a lightly oiled mixing bowl, rolling it around to coat it in oil (Note: the dough will roughly double in size so use a larger bowl). Cover the bowl and let the dough rise for about 30 minutes while you prep the other components.
+3. Form the dough into a ball and place in a lightly oiled mixing bowl, rolling it around to coat it in oil (Note: the dough will roughly double in size so use a larger bowl). Cover the bowl and let the dough rise for about 30 minutes while you prep the other components.
 
 **Make the roasted veggies**
 1. Toss chopped broccoli and red onion in a tbsp. or so of olive oil and spread out onto a baking sheet. Do the same with the sliced tomatoes on a separate sheet.
-2. Bake the veggies for 20-25 minutes to your desired level of roastiness. (They will cook for only another ~5 minutes in the final bake). Leave the oven on at 400°F and preheat a baking stone or heavy duty baking sheet for the flatbread dough.
+2. Bake the veggies for 20-25 minutes to your desired level of roastiness. (They will cook for only another ~5 minutes in the final bake). Increase the oven temperature to 450°F and preheat a baking stone or heavy duty baking sheet for the flatbread dough.
 
 **Make the almond ricotta, white bean sauce, and pesto**
 1. Combine all of the ingredients for the almond ricotta in the bowl of a food processor or high-speed blender and puree, scraping down the sides a couple times as needed. You may want to add a few more teaspoons of water, which will increase the fluffiness, if it looks too grainy. Remove once smooth and set aside.

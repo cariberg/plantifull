@@ -10,7 +10,9 @@ tags:
 
 This is a delicious, moist vegan take on zucchini bread without being too sweet! Adapted 
 (and made easier) from [Laura Wright's First Mess recipe](https://thefirstmess.com/2020/08/12/vegan-spelt-zucchini-bread-recipe/#recipe), 
-this is a great dessert or even a pre-run snack as a muffin (my preferred style!).
+this is a great dessert or even a pre-run snack as a muffin (my preferred style!). The 
+recipe makes them as muffins, but it also could be made into a loaf. Just put into a 
+loaf pan and cook for 60 minutes.
 
 <div class="switch-container">
   <label class="switch">

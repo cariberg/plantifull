@@ -48,11 +48,11 @@ For the tahini sauce:
 
 <h3> Directions </h3>
 
-1. Preheat the oven to 425&deg;F.
+1. Preheat the oven to 375&deg;F.
 
 2. Cook the lentils. If using an Instant Pot, pressure cook for about 7 minutes followed by a 10-minute slow release. Drain the lentils and set aside.
 
-2. While the lentils are cooking, mix together all the spices for the steak seasoning. Then place the cabbage slices on a baking tray and spray or brush with a light coat of olive oil. Sprinkle with the steak seasoning, then flip the cabbage over and repeat on the other side. Roast the cabbage for 12-16 minutes in the 425&deg;F oven until the edges are beginning to brown or get crispy.
+2. While the lentils are cooking, mix together all the spices for the steak seasoning. Then place the cabbage slices on a baking tray and spray or brush with a light coat of olive oil. Sprinkle with the steak seasoning, then flip the cabbage over and repeat on the other side. Roast the cabbage for 16 minutes in the 375&deg;F oven until the cabbage is tender and the edges are beginning to brown or get crispy.
 
 3. While things are cooking, prepare the chimichurri by mixing together all ingredients.
 

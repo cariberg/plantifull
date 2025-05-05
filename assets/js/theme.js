@@ -134,3 +134,31 @@ $(function() {
     }
   }
 });
+
+// Cook Mode toggle
+let wakeLock = null;
+
+async function requestWakeLock() {
+  try {
+    wakeLock = await navigator.wakeLock.request("screen");
+    console.log("Wake Lock is active");
+  } catch (err) {
+    console.error("Wake Lock request failed:", err);
+  }
+}
+
+function releaseWakeLock() {
+  if (wakeLock) {
+    wakeLock.release();
+    wakeLock = null;
+    console.log("Wake Lock is released");
+  }
+}
+
+document.getElementById("cook-mode-toggle").addEventListener("change", function () {
+  if (this.checked) {
+    requestWakeLock(); // Turn on Cook Mode
+  } else {
+    releaseWakeLock(); // Turn off Cook Mode
+  }
+});

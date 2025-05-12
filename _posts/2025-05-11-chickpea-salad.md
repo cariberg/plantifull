@@ -28,6 +28,6 @@ Spring has sprung here in Denver, and we are admiring tulips, eating all the asp
 
 <h3> Directions </h3>
 
-1. Using a potato masher, mash the chickpeas until they are somewhat flaky in texture.
+1. Using a potato masher, mash the chickpeas in a medium sized bowl until they are somewhat flaky in texture.
 
 2. Stir in all other ingredients and mix well. Adjust lemon juice, salt, and other seasonings to taste.

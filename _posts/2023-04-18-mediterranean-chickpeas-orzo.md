@@ -38,7 +38,7 @@ This Mediterranean-inspired bowl is a fresh yet filling option that is very meal
 **To assemble**
 - 3 cups shredded lacinato kale, lightly massaged
 - 2 cups cooked chickpeas, seasoned with salt, dried oregano, and garlic powder
-- 1/3 cup [quick pickled onions]({% post_url 2023-04-11-curried-chickpea-bowl %})
+- 1/3 cup [pickled red onions]({% post_url 2025-12-22-pickled-red-onion %})
 - 2 tbsp. roasted sunflower seeds
 
 <h3> Directions </h3>

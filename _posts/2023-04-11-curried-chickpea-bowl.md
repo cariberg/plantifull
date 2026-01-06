@@ -30,23 +30,16 @@ Now that it's finally starting to feel like spring here, I've been craving light
 - Black pepper
 - ~8 tbsp. warm water
 
-**For the quick pickled onions**
-- 1 red onion, thinly sliced
-- 1/2 cup apple cider vinegar
-- 1 tbsp. sugar
-- 1.5 tsp. salt
-- 1 cup water
-
 **To assemble**
 - 3 cups shredded lacinato kale, lightly massaged
 - 1 cup cooked quinoa or other grain
 - 1/4 cup roasted almonds, chopped
 - 2 tbsp. dried cranberries
+- [pickled red onions]({% post_url 2025-12-22-pickled-red-onion %})
 
 <h3> Directions </h3>
 
-1. **Make the quick pickled onions** In a medium bowl, whisk together the apple cider vinegar, sugar, salt, and water until the sugar and salt have dissolved. Place the onions in a jar and pour the vinegar mixture over. Let sit at room temperature while you prepare the other ingredients.
-2. **Make the curried chickpeas and broccoli** Place the chickpeas, broccoli, and scallions in a large bowl. Whisk together the remaining ingredients in a separate bowl, thinning with water as needed and adjusting the dressing to taste. Pour the dressing over the chickpeas and broccoli and mix.
+1. **Make the curried chickpeas and broccoli** Place the chickpeas, broccoli, and scallions in a large bowl. Whisk together the remaining ingredients in a separate bowl, thinning with water as needed and adjusting the dressing to taste. Pour the dressing over the chickpeas and broccoli and mix.
 
 **Assemble bowls**
 3. Divide kale and quinoa between two bowls. Top each with about a cup of curried chickpeas, a generous forkful of onions, and the almonds and cranberries.

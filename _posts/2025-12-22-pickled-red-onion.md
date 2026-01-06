@@ -23,6 +23,6 @@ This is my go-to recipe for pickled red onions, and I nearly always have a jar i
 
 <h3> Directions </h3>
 
-1. Combine all ingredients in a jar and tightly close the lid. Turn the jar and gently shake it to submerge the onions in the liquid.
+1. Combine all ingredients except for onions in a jar and tightly close the lid. Gently shake the jar until the sugar and salt have dissolved, then add the onions and submerge them in the liquid.
 
 2. Set aside for at least 30 minutes for a quick pickled onion, or store in the fridge for later use.

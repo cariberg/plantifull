@@ -4,7 +4,7 @@ title: "Sesame Noodles with Roasted Tofu and Veggies"
 author: cari
 categories: [main]
 permalink: /sesame-noodles/
-image: assets/images/sesame-noodles.jpg
+image: assets/images/sesame-noodles.png
 tags:
     - tofu
     - gluten-free

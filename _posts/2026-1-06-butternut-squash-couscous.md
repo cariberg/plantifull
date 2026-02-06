@@ -4,7 +4,7 @@ title: "Butternut Squash Bake with Zaatar Couscous and Basil Tahini"
 author: cari
 categories: [main]
 permalink: /butternut-squash-couscous/
-image: assets/images/butternut-squash-couscous.jpg
+image: assets/images/butternut-squash-couscous.png
 tags:
     - grains
     - chickpeas

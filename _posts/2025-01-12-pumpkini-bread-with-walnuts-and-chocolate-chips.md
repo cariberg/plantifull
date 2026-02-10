@@ -3,7 +3,7 @@ title: "Spelt Pumpkin Bread with Chocolate & Walnuts"
 author: chad
 layout: post
 permalink: /pumpkin-bread-with-chocolate-and-walnuts/
-image: assets/images/pumpkin-bread-muffins.jpg
+image: assets/images/pumpkin-bread-muffins.png
 categories: [desserts]
 tags:
 ---

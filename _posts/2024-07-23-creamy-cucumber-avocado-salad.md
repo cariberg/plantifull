@@ -3,7 +3,7 @@ title: "Creamy Cucumber Avocado Salad"
 author: cari
 layout: post
 permalink: /simple-delicious-cucumber-avocado-salad/
-image: assets/images/cucumber-avocado-salad.jpg
+image: assets/images/cucumber-avocado-salad.png
 categories: [sides]
 tags:
     - 30-minutes-or-less

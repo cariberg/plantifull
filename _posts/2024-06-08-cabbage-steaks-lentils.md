@@ -4,11 +4,12 @@ title: "Roasted Cabbage Steaks with Chimichurri Lentils"
 author: cari
 categories: [main]
 permalink: /cabbage-steaks-lentils/
-image: assets/images/cabbage-steaks-lentils.jpg
+image: assets/images/cabbage-steaks-lentils.png
 tags:
     - lentils
     - summer
     - gluten-free
+    - sticky
 
 ---
 

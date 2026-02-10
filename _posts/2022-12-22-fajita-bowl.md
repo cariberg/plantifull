@@ -8,7 +8,6 @@ image: assets/images/Fajita-Bowl.jpg
 tags:
     - black-beans
     - Tex-Mex
-    - sticky
     - gluten-free
     - meal-prep
 ---

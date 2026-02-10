@@ -4,7 +4,7 @@ title: "Tofu Stir Fry with Asparagus and Black Pepper"
 author: cari
 categories: [main]
 permalink: /asparagus-tofu-stir-fry/
-image: assets/images/asparagus-tofu-stir-fry.jpg
+image: assets/images/asparagus-tofu-stir-fry.png
 tags:
     - summer
     - 30-minutes-or-less

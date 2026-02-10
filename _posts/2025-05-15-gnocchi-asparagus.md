@@ -4,7 +4,7 @@ title: "Crispy Gnocchi with Asparagus and Vegan Miso Butter"
 author: cari
 categories: [main]
 permalink: /gnocchi-asparagus/
-image: assets/images/gnocchi-asparagus.jpg
+image: assets/images/gnocchi-asparagus.png
 tags:
     - summer
     - 30-minutes-or-less

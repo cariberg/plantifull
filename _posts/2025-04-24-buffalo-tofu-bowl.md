@@ -4,7 +4,7 @@ title: "Buffalo Tofu Bowl with Cashew Ranch"
 author: cari
 categories: [meal-prep]
 permalink: /buffalo-tofu-bowl/
-image: assets/images/buffalo-tofu-bowl.jpg
+image: assets/images/buffalo-tofu-bowl.png
 tags:
     - tofu
     - gluten-free

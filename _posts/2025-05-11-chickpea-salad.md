@@ -3,7 +3,7 @@ title: "Summery Chickpea Salad"
 author: cari
 layout: post
 permalink: /chickpea-salad/
-image: assets/images/chickpea-salad.jpg
+image: assets/images/chickpea-salad.png
 categories: [main]
 tags:
     - 30-minutes-or-less

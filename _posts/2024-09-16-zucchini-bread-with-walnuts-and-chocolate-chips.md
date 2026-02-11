@@ -3,7 +3,7 @@ title: "Zucchini Bread with Chocolate & Walnuts"
 author: chad
 layout: post
 permalink: /zucchini-bread-with-chocolate-and-walnuts/
-image: assets/images/zucchini-bread-muffins.jpg
+image: assets/images/zucchini-bread-muffins.png
 categories: [desserts]
 tags:
 ---

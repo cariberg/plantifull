@@ -3,7 +3,7 @@ title: 'Tempeh Tikka Masala'
 author: cari
 layout: post
 permalink: /tempeh-tikka-masala/
-image: assets/images/tempeh-tikka-masala.jpg
+image: assets/images/tempeh-tikka-masala.png
 categories: [main]
 tags:
     - indian

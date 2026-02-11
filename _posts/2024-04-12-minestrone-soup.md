@@ -4,7 +4,7 @@ title: "Best Vegan Minestrone Soup"
 author: cari
 categories: [main]
 permalink: /minestrone-soup/
-image: assets/images/minestrone.jpg
+image: assets/images/minestrone.png
 tags:
     - Italian
     - soup

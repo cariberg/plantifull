@@ -4,7 +4,7 @@ title: "Vegan Chickpea Quiche with Veggie Sausage & Tomatoes"
 author: cari
 categories: [breakfast]
 permalink: /chickpea-quiche/
-image: assets/images/Chickpea-Quiche.jpg
+image: assets/images/Chickpea-Quiche.png
 tags:
    - gluten-free
 ---

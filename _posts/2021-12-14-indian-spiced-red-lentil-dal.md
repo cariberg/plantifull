@@ -4,7 +4,7 @@ date: '2021-12-14T00:08:27+00:00'
 author: Cari
 layout: post
 permalink: /indian-spiced-red-lentil-dal/
-image: assets/images/Red Lentil Dal.jpg
+image: assets/images/Red Lentil Dal.png
 categories: [main]
 tags:
     - 30-minutes-or-less

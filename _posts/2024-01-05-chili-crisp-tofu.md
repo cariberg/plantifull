@@ -4,7 +4,7 @@ title: "Sheet Pan Chili Crisp Tofu"
 author: cari
 categories: [main]
 permalink: /chili-crisp-tofu/
-image: assets/images/Chili-Crisp-Tofu.jpg
+image: assets/images/Chili-Crisp-Tofu.png
 tags:
     - gluten-free
     - tofu

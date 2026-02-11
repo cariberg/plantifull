@@ -4,7 +4,7 @@ title: "Butternut Squash and Coconut Curry with Red Lentils"
 author: cari
 categories: [main]
 permalink: /butternut-coconut-curry/
-image: assets/images/butternut-red-lentil-curry.jpg
+image: assets/images/butternut-red-lentil-curry.png
 tags:
    - gluten-free
    - lentils

@@ -4,7 +4,7 @@ date: '2021-04-02T21:52:51+00:00'
 author: Cari
 layout: post
 permalink: /vegetable-flatbread-pesto-almond-ricotta/
-image: assets/images/Flatbread.jpg
+image: assets/images/Flatbread.png
 categories: [main]
 tags:
     - Italian

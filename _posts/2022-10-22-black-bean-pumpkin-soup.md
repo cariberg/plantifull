@@ -4,7 +4,7 @@ date: '2022-10-22T12:42:11+00:00'
 author: Cari
 layout: post
 permalink: /black-bean-pumpkin-soup/
-image: assets/images/Black Bean Pumpkin Soup.jpg
+image: assets/images/Black Bean Pumpkin Soup.png
 categories: [main]
 tags:
     - black-beans

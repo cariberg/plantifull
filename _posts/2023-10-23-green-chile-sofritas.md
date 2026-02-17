@@ -4,7 +4,7 @@ title: "Easy Green Chile Tofu Sofritas"
 author: cari
 categories: [main]
 permalink: /sofritas/
-image: assets/images/Green-Chile-Sofritas.jpg
+image: assets/images/Green-Chile-Sofritas.png
 tags:
     - tofu
     - Tex-Mex

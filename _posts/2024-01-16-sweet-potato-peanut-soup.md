@@ -3,7 +3,7 @@ title: 'Instant Pot Sweet Potato Peanut Soup'
 author: cari
 layout: post
 permalink: /sweet-potato-peanut-soup/
-image: assets/images/sweet-potato-peanut-soup.jpg
+image: assets/images/sweet-potato-peanut-soup.png
 categories: [main]
 tags:
     - soup

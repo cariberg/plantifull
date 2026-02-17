@@ -3,7 +3,7 @@ title: 'Green Curry Lentil Soup'
 author: cari
 layout: post
 permalink: /green-curry-lentil-soup/
-image: assets/images/Green-Curry-Lentil-Soup.jpg
+image: assets/images/Green-Curry-Lentil-Soup.png
 categories: [main]
 tags:
     - soup

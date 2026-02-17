@@ -3,7 +3,7 @@ title: "Instant Pot New Orleans Style Red Beans & Rice"
 author: cari
 layout: post
 permalink: /instant-pot-red-beans-rice/
-image: assets/images/red-beans-and-rice.jpg
+image: assets/images/red-beans-and-rice.png
 categories: [main]
 tags:
     - instant-pot

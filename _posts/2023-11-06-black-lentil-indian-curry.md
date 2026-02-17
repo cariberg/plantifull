@@ -4,7 +4,7 @@ title: "Black Lentil Dal"
 author: cari
 categories: [main]
 permalink: /black-lentil-dal/
-image: assets/images/black-lentil-dal.jpg
+image: assets/images/black-lentil-dal.png
 tags:
    - gluten-free
    - lentils
